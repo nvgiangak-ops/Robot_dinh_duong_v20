@@ -5,4 +5,4 @@
    Ví dụ: window.TRO_LY = {trung_tam: "https://script.google.com/macros/s/AKfy.../exec"};
    TUYỆT ĐỐI KHÔNG dán khóa kết nối (AIza... hoặc AQ....) vào đây: trang GitHub là công khai, ai cũng đọc được file này.
    Khóa chỉ cất trong trung tâm trợ lý (Thuộc tính tập lệnh KHOA_AI), xem trung_tam_tro_ly/HUONG_DAN.txt của dự án. */
-window.TRO_LY = {trung_tam: "AQ.Ab8RN6L-LoWPcAjCuegyRQ3peR3rajIRmSCSyGkzOrSKxdc9VQ"};
+window.TRO_LY = {trung_tam: "https://script.google.com/macros/s/AKfycbxIpvir42VU2gVi4tnFd2NicIz4cnxWW1x6xWGncv49T1WZcBCgpkms_yD23Wf2os3C/exec"};
